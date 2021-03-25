@@ -4,7 +4,7 @@
 
 Submitted by: **Dzvenyslava Koman**
 
-Time spent: **5** hours spent in total
+Time spent: **6** hours spent in total
 
 Link to project: (insert your link here, should start with https://slow-almondine-teeth.glitch.me/dontletyourdreamsbedreams)
 
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src="http://g.recordit.co/vK7ZYbJpty.gif">
+<img src="http://recordit.co/4B9TNWDceR.gif">
 
 
 ## Reflection Questions
