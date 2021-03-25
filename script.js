@@ -159,7 +159,7 @@ function guess(btn){
   } else if (mistakes <= 2) {
     progress++;
     mistakes++;
-    alert("Mistake! Careful! Only " + mistakes + " mistake left!")
+    alert("Mistake! Careful! Only " + 2-mistakes + " mistake left!")
     playClueSequence();
   }
   else{
